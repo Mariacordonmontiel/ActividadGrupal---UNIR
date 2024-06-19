@@ -1,8 +1,8 @@
 # Proyecto de Análisis de Biomas (UNIR - Bioinformática)
 ## Autores (Lote 1, Equipo 1)
-Óscar Saiz
-María Cordón
-Laura Albarracín 
+Óscar Saiz, 
+María Cordón, 
+Laura Albarracín,  
 Juan Martínez Pomares
 
 ## Descripción del Proyecto
